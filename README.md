@@ -6,3 +6,8 @@ Open the project in MPLAB
 Uses Harmony for the PIC32MK0512GPD64
 
 I2C code was used from Adian Mocke from his blog: http://www.aidanmocke.com/blog/2018/11/27/i2c/
+
+Notes to fix:
+Static everything
+Function Prototyping
+Maybe header files?

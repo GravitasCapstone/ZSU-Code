@@ -7,4 +7,4 @@ Uses Harmony for the PIC32MK0512GPD64
 
 I2C code was used from Adian Mocke from his blog: http://www.aidanmocke.com/blog/2018/11/27/i2c/
 
-Testing the Code here
+
